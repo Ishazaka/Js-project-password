@@ -23,4 +23,12 @@ font-size: 25px;
 
 }
 
+.form-control{
+border: 1px solid black;
+border-radius: 4px;
+padding: 5px 2px;
+  width: 90%;
+  margin: 8px;
+
+}
 
