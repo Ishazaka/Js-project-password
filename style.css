@@ -31,4 +31,13 @@ padding: 5px 2px;
   margin: 8px;
 
 }
+.but{
+  margin: 8px;
+  width: 90%;
+  padding: 5px 5px;
+  background-color: rgb(135, 202, 222);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
 
