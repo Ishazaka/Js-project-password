@@ -12,6 +12,15 @@ background-color: rgb(122, 196, 245);
   margin: 100px auto;
   border-radius: 5px;
 }
+h1{
+ text-align: center;
+ border-bottom: solid;
 
+}
+label{
+margin-bottom: 30px;
+font-size: 25px;
+
+}
 
 
